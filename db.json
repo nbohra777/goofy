@@ -1,0 +1,10 @@
+{
+  
+  "Restraunt" :[
+    {"id":1,"name":"pritam","emailid":"Pritam@gmail.com","address": "goregaon(e)"},
+    {"id":2,"name":"vrindavan","emailid":"vrindavan@gmail.com","address":" kandivali(e)"},
+    {"id":3,"name":"sukhsagar","emailid":"sukhsagar@gmail.com","address":" malad(e)"},
+    {"id":4,"name":"suruchi","emailid":"suruchi@gmail.com","address":" jogeshwari(e)"}
+    ]
+  }
+  
